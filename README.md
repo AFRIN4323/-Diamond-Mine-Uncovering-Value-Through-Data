@@ -81,7 +81,10 @@ This project provides a comprehensive and visually rich analysis of what impacts
 
 ---
 
-
+3. Launch the notebook:
+   ```bash
+   jupyter notebook Diamond Mine.ipynb
+   ```
 
 
 ## 🧑‍💻 Author
