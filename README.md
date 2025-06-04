@@ -49,7 +49,6 @@ This project explores the famous **Diamonds dataset** from [ggplot2](https://ggp
 ## 📈 Visualizations Included
 
 - Correlation heatmaps
-- Regression plots for price prediction
 - Boxplots by cut, clarity, and color
 - Histograms & distribution analysis
 
@@ -80,7 +79,7 @@ This project provides a comprehensive and visually rich analysis of what impacts
 
 ## 🧑‍💻 Author
 
-**Afreen Shaikh**  
+**Afrin Shaikh**  
 _Data Enthusiast | Python Explorer | Insight Hunter_  
 [[LinkedIn](https://www.linkedin.com/in/afreen-shaikh-42891a17a/)](#) | [Email]:Afreenshaikh1474@gmail.com(#)
 
