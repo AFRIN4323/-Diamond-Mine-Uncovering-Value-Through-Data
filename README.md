@@ -1,6 +1,10 @@
 # 💎 Diamond Mine: Uncovering Value Through Data
 > A data-driven journey to decode what truly determines the value of diamonds.
 >
+> <p align="center">
+  <img src="https://w0.peakpx.com/wallpaper/14/570/HD-wallpaper-diamond-diamond-png-cliparts-on-clipart-library-loose-diamonds.jpg" width="700" alt="Diamond Banner">
+</p>
+
 > ---
 
 ## 📌 Overview
