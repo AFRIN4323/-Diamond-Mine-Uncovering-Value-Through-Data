@@ -5,6 +5,13 @@
   <img src="https://w0.peakpx.com/wallpaper/14/570/HD-wallpaper-diamond-diamond-png-cliparts-on-clipart-library-loose-diamonds.jpg" width="700" alt="Diamond Banner">
 </p>
 
+<p align="center">
+  <a href="https://v1.pinimg.com/videos/mc/720p/74/a4/76/74a47613665daa4a1c1c621dfe551588.mp4" target="_blank">
+    <img src="https://yourdomain.com/preview.jpg" width="600" alt="Watch Diamond Analysis Video"/>
+  </a>
+</p>
+
+
 > ---
 
 ## 📌 Overview
