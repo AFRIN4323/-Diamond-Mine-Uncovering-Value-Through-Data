@@ -5,9 +5,7 @@
   <img src="https://w0.peakpx.com/wallpaper/14/570/HD-wallpaper-diamond-diamond-png-cliparts-on-clipart-library-loose-diamonds.jpg" width="700" alt="Diamond Banner">
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/81/3e/69/813e691d0dd703522fbe98b8094918cc.jpg" width="700" alt="Diamond Artwork">
-</p>
+
 
 
 > ---
